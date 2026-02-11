@@ -1,0 +1,15 @@
+### 3. The Filter: `.gitignore`
+Create a file named `.gitignore` (make sure it starts with a dot). Paste this text inside. This prevents junk files from clogging up your GitHub.
+
+```text
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS Metadata
+.DS_Store
