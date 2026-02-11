@@ -29,9 +29,16 @@ This project was developed as a final semester project to demonstrate proficienc
 
 *(You can upload a screenshot of your running app here later)*
 
-##  How to Run
+## 📦 How to Run
 
 1. Ensure you have Python installed.
+
 2. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/investment-calculator.git](https://github.com/yourusername/investment-calculator.git)
+
+🔗 Repository Link:  
+https://github.com/muhammadsulaimandata/Compound-Investment-Calculator
+
+3. Run the following command:
+
+```bash
+git clone https://github.com/muhammadsulaimandata/Compound-Investment-Calculator.git
