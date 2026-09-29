@@ -25,9 +25,6 @@ This project was developed as a final semester project to demonstrate proficienc
 - **Python 3.x**: Core logic and calculation algorithms.
 - **Tkinter**: Standard Python library used for creating the Graphical User Interface (GUI).
 
-##  Screenshots
-
-*(You can upload a screenshot of your running app here later)*
 
 ## 📦 How to Run
 
