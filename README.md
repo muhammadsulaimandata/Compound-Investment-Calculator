@@ -44,4 +44,4 @@ git clone https://github.com/muhammadsulaimandata/Compound-Investment-Calculator
 
 ## Calculator Preview
 
-![Calculator](Compound Interest Calculator.png)
+![Calculator](Compound-Interest-Calculator.png)
